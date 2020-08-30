@@ -1,6 +1,6 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
-# monster-chat
+# Ventanilla Administrativa
 
 ## Project setup
 ```
